@@ -4,9 +4,9 @@
   "description": "Hello World! Welcome to Red Hat OPenshift Ex288",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js,"
+    "start": "node app.js"
   },
-  "author": "Red Hat Trainin123g"
+  "author": "Red Hat Trainin123g",
   "license": "ASL",
   "dependencies": {
     "express": "4.14.x"
